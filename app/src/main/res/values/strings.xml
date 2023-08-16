@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">The Movie DB</string>
+    <string name="search_hint">Search Movie</string>
+    <string name="category_placeholder">Category</string>
+    <string name="movie_placeholder">Movie Name</string>
+    <string name="searched_string">Searched: </string>
+    <string name="movie_description_placeholder">Movie description text</string>
+    <string name="movie_overview_placeholder">Movie overview text example</string>
+    <string name="error_text">Error loading movie list\n%s</string>
+    <string name="reload"><u>Click here to reload</u></string>
+    <string name="empty_data">Movie data not found</string>
+</resources>

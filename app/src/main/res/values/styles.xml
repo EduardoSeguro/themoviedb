@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="categoryText">
+        <item name="android:textStyle">italic</item>
+        <item name="android:textColor">@color/text_gray</item>
+        <item name="android:textSize">18sp</item>
+        <item name="android:fontFamily">sans-serif</item>
+    </style>
+
+    <style name="movieTitleText">
+        <item name="android:ellipsize">end</item>
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:maxLines">3</item>
+        <item name="android:textColor">@color/text_gray</item>
+        <item name="android:textSize">12sp</item>
+    </style>
+
+    <style name="movieTitleDetailsText">
+        <item name="android:ellipsize">end</item>
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:textColor">@color/text_gray</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="movieDescriptionText">
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:textColor">@color/text_gray</item>
+        <item name="android:textSize">14sp</item>
+    </style>
+
+    <style name="movieOverviewText">
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:textColor">@color/text_gray</item>
+        <item name="android:textSize">16sp</item>
+    </style>
+
+    <style name="searchViewText">
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:textColor">@color/text_gray</item>
+        <item name="android:textColorHint">@color/text_gray</item>
+    </style>
+</resources>
